@@ -1,2 +1,4 @@
+server:
+  port: 1234
 config:
   info: this is dev.yml version = 2
